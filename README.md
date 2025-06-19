@@ -2,7 +2,6 @@
 
 A Terraform drift detection tool that scans your infrastructure for configuration drift by comparing your Terraform configuration with the actual state of your resources.
 
-![TFDrift Screenshot](Screenshot.png)
 
 ## Features
 
